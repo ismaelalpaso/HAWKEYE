@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "leaflet-minimap": "^3.6.1"
+  }
+}
